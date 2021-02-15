@@ -3,6 +3,28 @@ title: "Madawa Jayawardana"
 site: distill::distill_website
 ---
 
+```{css echo = FALSE}
+.profile-photo {
+  vertical-align: middle;
+  padding: 1.5rem!important;
+  box-sizing: border-box;
+}
+
+.profile-photo img {
+  // border: 1px solid black;
+  border-radius: 50%!important;
+  width: 12rem!important;
+}
+
+.distill-site-footer {
+  --text-color:       rgba(0, 0, 0, 1);
+  --text-size:        15px;
+  --hover-color:      black;
+  --bkgd-color:       white;
+}
+
+```
+
 <div class="profile-photo">
 <img  src="images/madawa.jpg" alt="Profile photo">  
 </div>
@@ -23,12 +45,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{css echo = FALSE}
-.distill-site-footer {
-  --text-color:       rgba(0, 0, 0, 1);
-  --text-size:        15px;
-  --hover-color:      black;
-  --bkgd-color:       white;
-}
-
-```
