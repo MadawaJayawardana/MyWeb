@@ -5,5 +5,13 @@ description: |
 listing: posts
 ---
 
+```{css echo = FALSE}
+.distill-site-footer {
+  --text-color:       rgba(0, 0, 0, 1);
+  --text-size:        15px;
+  --hover-color:      black;
+  --bkgd-color:       white;
+}
+
 
 
