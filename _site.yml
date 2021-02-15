@@ -4,7 +4,7 @@ description: |
   This is my website...
 output_dir: "docs"
 navbar:
-  right:
+  left:
     - text: "Madawa Jayawardana"
       href: index.html
     - text: "CV"
