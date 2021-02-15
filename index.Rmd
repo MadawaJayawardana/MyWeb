@@ -1,5 +1,5 @@
 ---
-title: "My web site"
+title: "Madawa Jayawardana"
 description: |
   Hi! Welcome to my website!
 site: distill::distill_website

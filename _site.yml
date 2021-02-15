@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 navbar:
   left:
-    - text: "Madawa Jayawardana"
+    - text: "Home"
       href: index.html
     - text: "CV"
       href: CVs/Resume_MADAWA_Jayawardana.pdf
