@@ -4,6 +4,16 @@ description: |
   This is my website...
 repository_url: https://github.com/MadawaJayawardana/myweb
 creative_commons: CC BY
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    feed_iems_max: 20 # default
+    disqus: statistical-genetics
+    share: [twitter, linkedin]
+    subscribe: _subscribe.html
+    custom: _custom.html
 output_dir: "docs"
 navbar:
   left:
@@ -12,7 +22,7 @@ navbar:
     - text: "CV"
       href: CVs/Resume_MADAWA_Jayawardana.pdf
     - text: "Blog"
-      href: testpage.html  
+      href: blog.html  
   right:
     - icon: fab fa-github
       href: https://github.com/MadawaJayawardana

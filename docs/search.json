@@ -6,7 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T12:25:41+11:00"
+      "last_modified": "2021-02-15T12:37:11+11:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "description": "These are posts about statistics...\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-15T12:37:12+11:00"
     },
     {
       "path": "index.html",
@@ -14,22 +22,8 @@
       "description": "Hi! Welcome to my website!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T12:25:42+11:00"
-    },
-    {
-      "path": "testpage.html",
-      "title": "Blog",
-      "description": "A new article created using the Distill format.\n",
-      "author": [
-        {
-          "name": "Nora Jones",
-          "url": "https://example.com/norajones"
-        }
-      ],
-      "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-02-15T12:25:42+11:00"
+      "last_modified": "2021-02-15T12:37:13+11:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
