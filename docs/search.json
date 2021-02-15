@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T12:37:11+11:00"
+      "last_modified": "2021-02-15T12:54:50+11:00"
     },
     {
       "path": "blog.html",
@@ -14,7 +14,7 @@
       "description": "These are posts about statistics...\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T12:37:12+11:00"
+      "last_modified": "2021-02-15T12:54:50+11:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "description": "Hi! Welcome to my website!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T12:37:13+11:00"
+      "last_modified": "2021-02-15T12:54:51+11:00"
     }
   ],
   "collections": ["posts/posts.json"]
