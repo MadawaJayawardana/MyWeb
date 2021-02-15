@@ -1,7 +1,7 @@
 ---
 title: "My web site"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Hi! Welcome to my website!
 site: distill::distill_website
 ---
 
