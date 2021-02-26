@@ -3,26 +3,29 @@ title: "Madawa Jayawardana"
 theme: theme.css
 description: |
   This is my website...
+favicon: images/fav.png
 collections:
   posts:
     categories: true
     categories_metadata: true
     authors_metadata: false
-    feed_iems_max: 20 # default
-    disqus: statistics
-    share: [twitter, linkedin]
+    feed_iems_max: 30 
     subscribe: _subscribe.html
     custom: _custom.html
 output_dir: "docs"
 creative_commons: CC BY
 navbar:
+  # logo:
+  #   image: images/fav.png
   left:
     - text: "Home"
       href: index.html
     - text: "CV"
       href: CVs/Resume_MADAWA_Jayawardana.pdf
+    - text: "Research"
+      href: research.html
     - text: "Blog"
-      href: blog.html  
+      href: blog.html
   right:
     - icon: fab fa-github
       href: https://github.com/MadawaJayawardana
