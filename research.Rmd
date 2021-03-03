@@ -1,18 +1,32 @@
 ---
-title: "Research"
+title: "Research Activities"
 description: | 
-  Research...
+ Collaborations, research and supervision activities. 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Publications
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+- Ray,	U.,	Bank,	S.,	Jayawardana,	M. W., Bhowmik,	J., Redwig,	F., Jana,	P., Bhattacharya,	S.,
+Manna,	E.,	Kumar,	S.D., Maiti,	S., Roberts-Thomson,	P., Parameswaran,	V., & Sinha,	A.K. (2019).	
+Insulin	resistance	in	prostate	cancer	patients	and	predisposing	them	to	acute	ischemic	heart	
+disease.	Bioscience	Reports,	39:7,	10.1042/BSR20182313.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+## Software
+
+
+
+## Supervisions
+
+
+
+## Grants
+
+
 
 ```{r cars}
 summary(cars)

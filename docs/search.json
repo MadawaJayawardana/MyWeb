@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-26T10:48:02+11:00"
+      "last_modified": "2021-03-03T20:58:21+11:00"
     },
     {
       "path": "blog.html",
@@ -14,22 +14,22 @@
       "description": "These are posts about statistics...\n",
       "author": [],
       "contents": "\n\n\n.distill-site-footer {\n  --text-color:       rgba(0, 0, 0, 1);\n  --text-size:        15px;\n  --hover-color:      black;\n  --bkgd-color:       white;\n}\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-02-26T10:48:02+11:00"
+      "last_modified": "2021-03-03T20:58:22+11:00"
     },
     {
       "path": "index.html",
       "title": "Madawa Jayawardana",
       "author": [],
-      "contents": "\n\n\n.profile-photo {\n  vertical-align: middle;\n  padding: 1.5rem!important;\n  box-sizing: border-box;\n}\n\n.profile-photo img {\n  // border: 1px solid black;\n  border-radius: 50%!important;\n  width: 12rem!important;\n}\n\n.distill-site-footer {\n  --text-color:       rgba(0, 0, 0, 1);\n  --text-size:        15px;\n  --hover-color:      black;\n  --bkgd-color:       white;\n}\n\n\n\n\n\nHi! Welcome to my website!\nI’m an experienced applied statistician working as a Statistical Consultant for the Office of Cancer Research, Peter MacCallum Cancer Centre (Peter Mac), Melbourne, Australia. I’m also an Honorary Fellow at the University of Melbourne. At Peter Mac, I’m providing statistical support to cancer research staff via conducting workshops and consultations. Prior to joining Peter Mac, I was working as a lecturer in applied statistics at Swinburne University of Technology, Melbourne, Australia. I have earned my PhD in Statistics from Macquarie University, Sydney. Further, I’ve studied and performed consultancy work at the Missouri University of Science and Technology, Rolla, MO, USA. Broader areas of research that I’m engaged in: biostatistics, statistical modelling, predictive modelling, change point analysis, epidemiology, data science, financial statistics, climate change statistical methods, physical health and ecological statistics.\n\n\n\n",
-      "last_modified": "2021-02-26T10:48:03+11:00"
+      "contents": "\n\n\n.profile-photo {\n  vertical-align: middle;\n  padding: 1.5rem!important;\n  box-sizing: border-box;\n}\n\n.profile-photo img {\n  // border: 1px solid black;\n  border-radius: 50%!important;\n  width: 12rem!important;\n}\n\n.distill-site-footer {\n  --text-color:       rgba(0, 0, 0, 1);\n  --text-size:        15px;\n  --hover-color:      black;\n  --bkgd-color:       white;\n}\n\n\n\n\n\nHi! Welcome to my website!\nI’m an experienced applied statistician working as a Statistical Consultant for the Office of Cancer Research, Peter MacCallum Cancer Centre (Peter Mac), Melbourne, Australia. I’m also an Honorary Fellow at the University of Melbourne. At Peter Mac, I’m providing statistical support to cancer research staff via conducting workshops and consultations. Prior to joining Peter Mac, I was working as a lecturer in applied statistics at Swinburne University of Technology, Melbourne, Australia. I have earned my PhD in Statistics from Macquarie University, Sydney. Further, I’ve studied and performed consultancy work at the Missouri University of Science and Technology, Rolla, MO, USA. Broader areas of research that I’m engaged in: biostatistics, statistical modelling, predictive modelling, change point analysis, epidemiology, data science, financial statistics, climate change statistical methods, physical health and ecological statistics.\nShort bio…\nI started my research career when I was doing my honours program at the University of Colombo, Sri Lanka. After completing honours, I moved to the USA to pursue my postgraduate studies at the Missouri University of Science and Technology, Rolla, Missouri. I worked as a Graduate Assistant at the Department of Mathematics & Statistics and also fortunate to work as a statistical consultant for one of the projects. At the end of the first year, I moved to Australia to start my PhD at Macquarie University, Sydney, Australia.\n\n\n\n",
+      "last_modified": "2021-03-03T20:58:22+11:00"
     },
     {
       "path": "research.html",
-      "title": "Research",
-      "description": "Research...",
+      "title": "Research Activities",
+      "description": "Collaborations, research and supervision activities. ",
       "author": [],
-      "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
-      "last_modified": "2021-02-26T10:48:03+11:00"
+      "contents": "\nPublications\nRay, U., Bank, S., Jayawardana, M. W., Bhowmik, J., Redwig, F., Jana, P., Bhattacharya, S., Manna, E., Kumar, S.D., Maiti, S., Roberts-Thomson, P., Parameswaran, V., & Sinha, A.K. (2019).\nInsulin resistance in prostate cancer patients and predisposing them to acute ischemic heart\ndisease. Bioscience Reports, 39:7, 10.1042/BSR20182313.\nSoftware\nSupervisions\nGrants\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+      "last_modified": "2021-03-03T20:58:23+11:00"
     }
   ],
   "collections": ["posts/posts.json"]
